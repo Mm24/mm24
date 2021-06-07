@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Maria Monzon 👋
 
-## About Me  👩‍🎓 :
+## About Me  👩‍🎓
 - 🎓  MSc with Honors on Biomedical Engineerig at Friedrich Alexander University 
 - 🧠 Expertise in Image Procesisng and Machine Learning and Statistics : 
     ✔️ Medical Imaging and Bio-Signal Processing: MRI, EEG, ECG, segmentation, tracking, registration, classification, preprocessing, image analysis.
@@ -25,12 +25,12 @@ Here are some ideas to get you started:
     ✔️ Data Science: Statistical analysis, Databases, Information Theory, Data Analysis, Probability, Data Mining
 - 👨‍💻 I'm currently working full-time as Data Scientist / Computer Vision Engineet on DataScience for Biosicience at [BASF Digital Hub]  
 - 🌱 I’m currently learning on techniques Explainable Deep Learning and Deep Learning workflow Automation
- - ⚡ Fun fact: ...
+ - ⚡ Fun fact: I love Cooking
  - 😄 Pronouns: She/her
  - 📫 You can reach me at: [maria.monzon@fau.de](mailto:maria.monzon@fau.de)
 
 
-## 🔧 Tools:
+##  Tools 🔧 
     Tools: Pytorch, OpenCV, PyDicom, Pandas,Skorch, Matplotlib, Seeborn, Falsk, Docker, scikit-learn, Keras, LaTeX
     Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL
     

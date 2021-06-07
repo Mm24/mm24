@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - 🎓  MSc with Honors on Biomedical Engineerig at Friedrich Alexander University 
 - 🧠 Expertise in Image Procesisng and Machine Learning and Statistics : 
-    ✔️ Medical Imaging and Bio-Signal Processing: MRI, EEG, ECG, segmentation, tracking, registration, classification, preprocessing, image analysis.
-    ✔️ Artificial intelligence: Pattern Recognition (PR), Deep Learning (DL), Computer Vision (CV), Machine Learning (ML), Convolutional Neural Networks (CNN), Transfer Learning, Classification, Regression, Supervised Learning
-    ✔️ Data Science: Statistical analysis, Databases, Information Theory, Data Analysis, Probability, Data Mining
+    - ✔️ Medical Imaging and Bio-Signal Processing: MRI, EEG, ECG, segmentation, tracking, registration, classification, preprocessing, image analysis.
+    - ✔️ Artificial intelligence: Pattern Recognition (PR), Deep Learning (DL), Computer Vision (CV), Machine Learning (ML), Convolutional Neural Networks (CNN), Transfer Learning, Classification, Regression, Supervised Learning
+    - ✔️ Data Science: Statistical analysis, Databases, Information Theory, Data Analysis, Probability, Data Mining
 - 👨‍💻 I'm currently working full-time as Data Scientist / Computer Vision Engineet on DataScience for Biosicience at [BASF Digital Hub]  
 - 🌱 I’m currently learning on techniques Explainable Deep Learning and Deep Learning workflow Automation
 - ⚡ Fun fact: I love cooking

@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 
 ### 📫  How to reach me: 
 
-[<img align="center" alt="website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email] 
-[<img align="center" alt="LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email] 
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+
 [email]: mailto:maria.monzon@fau.de
 [linkedin]: https://www.linkedin.com/in/mariamonzon24/
 

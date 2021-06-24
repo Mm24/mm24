@@ -25,15 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love cooking
 
 
-### 📫  How to reach me: 
-
-[<img align="left" alt="website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email] 
-[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-
-[email]: mailto:maria.monzon@fau.de
-[linkedin]: https://www.linkedin.com/in/mariamonzon24/
-
-
 ##  Tools 🔧 
     Tools: Pytorch, OpenCV, PyDicom, Pandas,Skorch, Matplotlib, Seeborn, Falsk, Docker, scikit-learn, Keras, LaTeX
     Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL
@@ -44,3 +35,14 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="57" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="57" height="55"/>   
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="70" height="70"/>
+ 
+ 
+## 📫  How to reach me: 
+
+[<img align="left" alt="website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email] 
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+
+[email]: mailto:maria.monzon@fau.de
+[linkedin]: https://www.linkedin.com/in/mariamonzon24/
+
+ 

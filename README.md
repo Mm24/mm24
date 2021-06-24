@@ -9,11 +9,8 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 
 
 -->
-
 
 ## About Me  👩‍🎓
 - 😄 Pronouns: She/her
@@ -26,13 +23,21 @@ Here are some ideas to get you started:
     - ✔️ Data Science: Statistical analysis, Databases, Information Theory, Data Analysis, Probability, Data Mining
 - 🌱 I’m currently learning on techniques Explainable Deep Learning and Deep Learning workflow Automation
 - ⚡ Fun fact: I love cooking
-- 📫 You can reach me at: [maria.monzon@fau.de](mailto:maria.monzon@fau.de)
 
+
+### 📫  How to reach me::
+
+[<img align="left" alt="website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+
+
+[email]: mailto:maria.monzon@fau.de
+[linkedin]: https://www.linkedin.com/in/mariamonzon24/
 
 ##  Tools 🔧 
     Tools: Pytorch, OpenCV, PyDicom, Pandas,Skorch, Matplotlib, Seeborn, Falsk, Docker, scikit-learn, Keras, LaTeX
     Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL
-    
+   
 <div>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="57" height="55"/>

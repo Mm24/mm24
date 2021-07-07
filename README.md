@@ -37,17 +37,10 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="57" height="55"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="57" height="55"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="57" height="55"/>   
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="57" height="55"/>   
 </div>
 
-## 📫  How to reach me: 
-
-[<img align="left" alt="website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email] 
-[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-
-[email]: mailto:maria.monzon@fau.de
-[linkedin]: https://www.linkedin.com/in/mariamonzon24/
-
- ## Github stats:
+## Github stats:
 <div>
     
 ![Stats](https://github-readme-stats.vercel.app/api?username=mm24&show_icons=true&title_color=8ac926&icon_color=8ac926&hide=[%22stars%22])
@@ -55,3 +48,13 @@ Here are some ideas to get you started:
 ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mm24&layout=compact&text_color=daf7dc&bg_color=151515)
    
 </div>
+
+
+## 📫  How to reach me: 
+
+[<img align="left" alt="website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email] 
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>][linkedin]
+
+[email]: mailto:maria.monzon@fau.de
+[linkedin] : https://www.linkedin.com/in/mariamonzon24/
+

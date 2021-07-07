@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="57" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="57" height="55"/>   
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="70" height="70"/>
- 
+ </div>
+
  
 ## 📫  How to reach me: 
 
@@ -45,6 +46,12 @@ Here are some ideas to get you started:
 [email]: mailto:maria.monzon@fau.de
 [linkedin]: https://www.linkedin.com/in/mariamonzon24/
 
+    
  ### Github stats:
+<div>
+<p align="center">      
 ![Stats](https://github-readme-stats.vercel.app/api?username=mm24&show_icons=true&title_color=8ac926&icon_color=8ac926&hide=[%22stars%22])
+    
 ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mm24&layout=compact&text_color=daf7dc&bg_color=151515)
+</p>
+</div>

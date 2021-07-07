@@ -49,6 +49,9 @@ Here are some ideas to get you started:
 
  ## Github stats:
 <div>
+    
 ![Stats](https://github-readme-stats.vercel.app/api?username=mm24&show_icons=true&title_color=8ac926&icon_color=8ac926&hide=[%22stars%22])
+    
 ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mm24&layout=compact&text_color=daf7dc&bg_color=151515)
+   
 </div>

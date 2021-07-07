@@ -45,4 +45,6 @@ Here are some ideas to get you started:
 [email]: mailto:maria.monzon@fau.de
 [linkedin]: https://www.linkedin.com/in/mariamonzon24/
 
- 
+ ### Github stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=mm24&show_icons=true&title_color=8ac926&icon_color=8ac926&hide=[%22stars%22])
+![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mm24&layout=compact&text_color=daf7dc&bg_color=151515)

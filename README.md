@@ -9,7 +9,7 @@
 
 ## About Me  👩‍🎓
 - 👩 My name is Maria Monzon, a curious mind from  and I'm a AI application developer and DevOps engineer.
-- 📫 **How to conect with me**: [](https://github.com/mm24" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white&link=https://github.com/mm24) 
+- 📫 **How to conect with me**: [](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white&link=https://github.com/mm24) 
 
 <p>
 <a href="https://github.com/mm24" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>

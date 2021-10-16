@@ -73,15 +73,15 @@
 ## Coding Examples 
 
 <a href="https://github.com/amosproj/amos2021ss05-3d-viewer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amosproj&repo=amos2021ss05-3d-viewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amosproj&repo=amos2021ss05-3d-viewer" />
 </a>
 
 ## &#x1f4c8; GitHub Insights:
 
-<a href="https://github.com/mm24/mm24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm24&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/mm24/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm24&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&count_private=true" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/mm24">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mm24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mm24's GitHub Stats" />
 </a>
 <details>

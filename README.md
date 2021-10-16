@@ -26,11 +26,11 @@
 ##  Software Development Tools
 <p>
   <img alt="OS" src="https://img.shields.io/badge/OS-Linux-informational?style=flat-squar&logo=linux&logoColor=white&color=2bbc8a" />
-  <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat-squar&logo=linux&logoColor=white&color=yellow" />
+  <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=yellow" />
   <img alt="Shell" src="https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=javacript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javacript&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -75,17 +75,19 @@
 <a href="https://github.com/amosproj/amos2021ss05-3d-viewer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amosproj&repo=amos2021ss05-3d-viewer" />
 </a>
+<a href="https://github.com/amosproj/amos2021ss05-3d-viewer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm24&repo=Software-applications-with-AI" />
+</a>
 
 ## &#x1f4c8; GitHub Insights:
 
 <a href="https://github.com/mm24/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm24&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm24&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&count_private=true" />
 </a>
 <a href="https://github.com/mm24">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mm24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mm24's GitHub Stats" />
 </a>
-<details>
-<summary> <br>Open source projects stats</br></summary>
+<details><br>Open source projects stats</br>
 <table>
   <thead align="center">
     <tr border: none;>

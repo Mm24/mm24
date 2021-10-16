@@ -95,11 +95,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mm24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mm24's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+### Projects
+<a href="https://github.com/amosproj/amos2021ss05-3d-viewer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amosproj&repo=amos2021ss05-3d-viewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-### Open source projects 
+### Open source projects Stats
 <table>
   <thead align="center">
     <tr border: none;>

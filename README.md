@@ -85,6 +85,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="57" height="55"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="57" height="55"/>   
 </div>
+### Pinned Projects
+
+<a href="https://github.com/amosproj/amos2021ss05-3d-viewer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amosproj&repo=amos2021ss05-3d-viewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 ## &#x1f4c8; GitHub Insights:
 
@@ -94,12 +99,8 @@
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mm24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mm24's GitHub Stats" />
 </a>
-
-### Projects
-<a href="https://github.com/amosproj/amos2021ss05-3d-viewer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amosproj&repo=amos2021ss05-3d-viewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-### Open source projects Stats
+<summary>
+### Open source projects stats
 <table>
   <thead align="center">
     <tr border: none;>
@@ -120,5 +121,5 @@
     </tr>
   </tbody>
 </table>
-
-
+    
+</summary>

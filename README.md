@@ -9,6 +9,11 @@
 
 ## About Me  👩‍🎓
 - 👩 My name is Maria Monzon, a curius mind from  and I'm a AI application developer and DevOps engineer.
+- <p> 📫 **How to conect with me**: 
+<a href="https://github.com/mm24" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mariamonzon24" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:maria.monzon@fau.de" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/email-c14438.svg?&style=flat&logo=Gmail&logoColor=white" /></a>
+</p>
 - 👨‍💻 I'm currently working full-time as Data Scientist & Computer Vision Engineer for DataScience for Biosicience at [BASF Digital Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
 - 🎓 MSc with Honors on Biomedical Engineerig at Friedrich Alexander University 
 - 👯 I’m looking to collaborate on Open Source Biomedical and NeuroScience Projects
@@ -18,11 +23,7 @@
     - ✔️ *Data Science*: Statistical analysis, Databases, Information Theory, Data Analysis, Probability, Data Mining
 - 🌱 I’m currently learning on techniques Explainable Deep Learning and Deep Learning workflow Automation
 - ⚡ Fun fact: I love cooking
- <p> - 📫 **How to conect with me**: 
-<a href="https://github.com/mm24" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mariamonzon24" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:maria.monzon@fau.de" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/email-c14438.svg?&style=flat&logo=Gmail&logoColor=white" /></a>
-</p>
+
 
 ##  Software Development Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)

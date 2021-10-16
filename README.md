@@ -73,7 +73,7 @@
 ## Coding Examples 
 
 <a href="https://github.com/amosproj/amos2021ss05-3d-viewer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amosproj&repo=amos2021ss05-3d-viewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amosproj&repo=amos2021ss05-3d-viewer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=blue" />
 </a>
 
 ## &#x1f4c8; GitHub Insights:
@@ -85,7 +85,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mm24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mm24's GitHub Stats" />
 </a>
 <details>
-<summary> **Open source projects stats**</summary>
+<summary> <br>Open source projects stats</br></summary>
 <table>
   <thead align="center">
     <tr border: none;>

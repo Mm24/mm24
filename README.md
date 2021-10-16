@@ -21,14 +21,9 @@
  <p> - 📫 **How to conect with me**: 
 <a href="https://github.com/mm24" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mariamonzon24" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:maria.monzon@fau.de" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/email-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="mailto:maria.monzon@fau.de" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/email-c14438.svg?&style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
-[![Gmail Badge](https://img.shields.io/badge/-mariamonzon24-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:mariamonzon24@gmail.com)
-## 📫 &nbsp; How to conect with me ?
-<p align="left">
-<a href="mailto:maria.monzon@fau.de" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="mail" " width="22px" /></a>
-</p>
-    
+
 ##  Software Development Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -78,8 +73,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
-<h3>Open source projects</h3>
+### Open source projects 
 <table>
   <thead align="center">
     <tr border: none;>

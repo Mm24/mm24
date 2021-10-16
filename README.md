@@ -18,10 +18,10 @@
     - ✔️ *Data Science*: Statistical analysis, Databases, Information Theory, Data Analysis, Probability, Data Mining
 - 🌱 I’m currently learning on techniques Explainable Deep Learning and Deep Learning workflow Automation
 - ⚡ Fun fact: I love cooking
-- 📫 <p> **How to conect with me**: 
+ <p> - 📫 **How to conect with me**: 
 <a href="https://github.com/mm24" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mariamonzon24" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:maria.monzon@fau.de" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/mariamonzon24-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mariamonzon24" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:maria.monzon@fau.de" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/email-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 [![Gmail Badge](https://img.shields.io/badge/-mariamonzon24-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:mariamonzon24@gmail.com)
 ## 📫 &nbsp; How to conect with me ?
@@ -29,30 +29,9 @@
 <a href="mailto:maria.monzon@fau.de" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="mail" " width="22px" /></a>
 </p>
     
-    
-  [<img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][mailto:maria.monzon@fau.de] 
-[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>][https://www.linkedin.com/in/mariamonzon24/]
-    
-🔗 &nbsp;**Connect with me**
-
-<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-
-
 ##  Software Development Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-
-##  🔧 Technologies & Framworks  
-
-<!--
-    Tools: Pytorch, OpenCV, PyDicom, Pandas, Skorch, DVC, Matplotlib, Seeborn, Flask, Docker, scikit-learn, Keras, LaTeX
-    Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL
--->
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 <!--
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -65,6 +44,13 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+-->
+    
+###  🔧 Technologies & Framworks  
+
+<!--
+    Tools: Pytorch, OpenCV, PyDicom, Pandas, Skorch, DVC, Matplotlib, Seeborn, Flask, Docker, scikit-learn, Keras, LaTeX
+    Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL
 -->
 
 <div>

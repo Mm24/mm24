@@ -18,10 +18,8 @@
     - ✔️ *Data Science*: Statistical analysis, Databases, Information Theory, Data Analysis, Probability, Data Mining
 - 🌱 I’m currently learning on techniques Explainable Deep Learning and Deep Learning workflow Automation
 - ⚡ Fun fact: I love cooking
-- 📫 **How to conect with me**: 
-
-<p>
-<a href="https://github.com/mm24" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+- 📫 <p> **How to conect with me**: 
+<a href="https://github.com/mm24" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mariamonzon24" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="mailto:maria.monzon@fau.de" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/mariamonzon24-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>

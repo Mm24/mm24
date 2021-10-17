@@ -12,12 +12,12 @@
 - 📫 **How to conect with me**: ![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mariamonzon24) ![](https://img.shields.io/badge/email-c14438.svg?&style=flat&logo=Gmail&logoColor=white&link=mailto:maria.monzon@fau.de) ![](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white&link=https://github.com/mm24)
 - 👨‍💻 I'm currently working full-time as Data Scientist & Computer Vision Engineer for DataScience for Biosicience at [BASF Digital Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
 - 🎓 MSc with Honors on Biomedical Engineerig at Friedrich Alexander University with strond focus on image and data processing. 
-- 👯 I’m looking to collaborate on Open Source Biomedical and NeuroScience Projects
 - 🧠 Expertise in Image Procesing and Machine Learning and Statistics: 
     - ✔️ *Medical Imaging and Bio-Signal Processing*: MRI, EEG, ECG, segmentation, tracking, registration, classification, preprocessing, image analysis.
     - ✔️ *Artificial intelligence*: Pattern Recognition (PR), Deep Learning (DL), Computer Vision (CV), Machine Learning (ML), Convolutional Neural Networks (CNN), Transfer Learning, Classification, Regression, Supervised Learning
     - ✔️ *Data Science*: Statistical analysis, Databases, Information Theory, Data Analysis, Probability, Data Mining
 - 🌱 I’m currently learning on techniques Explainable Deep Learning and Deep Learning workflow Automation
+- 👯 I’m looking to collaborate on Open Source Biomedical and NeuroScience Projects
 - ⚡ Fun fact: I love cooking
 
 

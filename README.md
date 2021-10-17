@@ -47,7 +47,21 @@
     Tools: Pytorch, OpenCV, PyDicom, Pandas, Skorch, DVC, Matplotlib, Seeborn, Flask, Docker, scikit-learn, Keras, LaTeX
     Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL
 
+Image Processing OpenCV PIL
+scikit Computer Vision (CV)
+Medical Imaging PyDICOM ITK
+MRI Registration Segmentation
+Biomedical Signal Analysis EEG
+ECG Signal Processing Scipy
+Applied Visualization Plotly
+Dash Data Visualization Bokeh
+Matplotlib Seaborn Pandas
+Excel Jupter NB Numpy
+LaTeX SQL HTML5 Flask
+
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black)
+![](https://img.shields.io/badge/Lib-scikit-informational?style=flat&logo=oython&logoColor=orange&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black)
 
 <p> 

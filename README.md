@@ -61,7 +61,7 @@ LaTeX SQL HTML5 Flask
 
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black)
-![](https://img.shields.io/badge/ -scikit-informational?style=flat&logo=python&logoColor=orange&color=blue)
+![](https://img.shields.io/badge/ P-scikit-informational?style=flat&logo=python&logoColor=orange&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black)
 
 <!--

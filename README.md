@@ -11,7 +11,7 @@
 - 👩 My name is Maria Monzon, a curious mind from  and I'm a CV application developer and AI researcher.
 - 📫 **How to conect with me**: ![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mariamonzon24) ![](https://img.shields.io/badge/email-c14438.svg?&style=flat&logo=Gmail&logoColor=white&link=mailto:maria.monzon@fau.de) ![](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white&link=https://github.com/mm24)
 - 👨‍💻 I'm currently working full-time as Data Scientist & Computer Vision Engineer for DataScience for Biosicience at [BASF Digital Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
-- 🎓 MSc with Honors on Biomedical Engineerig at Friedrich Alexander University 
+- 🎓 MSc with Honors on Biomedical Engineerig at Friedrich Alexander University with strond focus on image and data processing. 
 - 👯 I’m looking to collaborate on Open Source Biomedical and NeuroScience Projects
 - 🧠 Expertise in Image Procesing and Machine Learning and Statistics: 
     - ✔️ *Medical Imaging and Bio-Signal Processing*: MRI, EEG, ECG, segmentation, tracking, registration, classification, preprocessing, image analysis.
@@ -29,9 +29,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="57" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="57" height="55"/>   
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_dvc.svg" alt="dvc" width="57" height="55"/>
+
     
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="57" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="57" height="55"/>   
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="57" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Cpp" width="57" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="57" height="55"/>
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="57" height="55"/>   
     
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="70" height="70"/>

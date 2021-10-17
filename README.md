@@ -59,21 +59,10 @@ Matplotlib Seaborn Pandas
 Excel Jupter NB Numpy
 LaTeX SQL HTML5 Flask
 
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black)
-![](https://img.shields.io/badge/Lib-scikit-informational?style=flat&logo=oython&logoColor=orange&color=blue)
+![](https://img.shields.io/badge/ -scikit-informational?style=flat&logo=python&logoColor=orange&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black)
-
-<p> 
-  <img alt="Shell" src="https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=black" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javacript&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
 
 <!--
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -89,14 +78,6 @@ LaTeX SQL HTML5 Flask
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 -->
-## Experience with (Medical) Image Processing and
-###  Imaging Processing and AI Frameworks
-
-Applied Visualization Plotly
-Dash Data Visualization Bokeh
-Matplotlib Seaborn Pandas
-Excel Jupter NB Numpy
-LaTeX SQL HTML5 Flask
 
 ### Coding Repositories 
 
@@ -107,13 +88,20 @@ LaTeX SQL HTML5 Flask
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm24&repo=Software-applications-with-AI" />
 </a>
 
+## Expertise in (Medical) Image Processing and
 
-### Expertise
 - 🧠 Expertise in Image Procesing and Machine Learning and Statistics: 
     - ✔️ *Medical Imaging and Bio-Signal Processing*: MRI, EEG, ECG, segmentation, tracking, registration, classification, preprocessing, image analysis.
     - ✔️ *Artificial intelligence*: Pattern Recognition (PR), Deep Learning (DL), Computer Vision (CV), Machine Learning (ML), Convolutional Neural Networks (CNN), Transfer Learning, Classification, Regression, Supervised Learning
     - ✔️ *Data Science*: Statistical analysis, Databases, Information Theory, Data Analysis, Probability, Data Mining
 
+###  Imaging Processing and AI Frameworks
+
+Applied Visualization Plotly
+Dash Data Visualization Bokeh
+Matplotlib Seaborn Pandas
+Excel Jupter NB Numpy
+LaTeX SQL HTML5 Flask
 
 
 ## &#x1f4c8; GitHub Insights:

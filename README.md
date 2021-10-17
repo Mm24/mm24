@@ -58,9 +58,9 @@ LaTeX SQL HTML5 Flask
 
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black)
-![](https://img.shields.io/badge/scikit-learn?style=flat&logo=scikitlearn&logoColor=orange&color=blue)
-![](https://img.shields.io/badge/-OpenCV?style=flat&logo=opencv&logoColor=white&color=blue)
-![](https://img.shields.io/badge/-pandas?style=flat&logo=pandas&logoColor=white&color=gray)
+![](https://img.shields.io/badge/scikit-learn?style=flat&logo=scikitlearn&logoColor=white&color=blue)
+![](https://img.shields.io/badge/-OpenCV-?style=flat&logo=opencv&logoColor=white&color=blue)
+![](https://img.shields.io/badge/-pandas-?style=flat&logo=pandas&logoColor=white&color=gray)
 
 
     Tools: Pytorch, OpenCV, PyDicom, Pandas, Skorch, DVC, Matplotlib, Seeborn, Flask, Docker, scikit-learn, Keras, LaTeX

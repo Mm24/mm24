@@ -68,6 +68,7 @@ LaTeX SQL HTML5 Flask
 
 ![](https://img.shields.io/badge/-Pydicom-gray?style=flat&logo=python&color=yellow)
 ![](https://img.shields.io/badge/-matplotlib-red?style=flat&logo=plotly&color=Add8e6)
+![](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=lightgray&color=white)
 
 
     Tools: Pytorch, OpenCV, PyDicom, Pandas, Skorch, DVC, Matplotlib, Seeborn, Flask, Docker, scikit-learn, Keras, LaTeX

@@ -39,16 +39,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="git" width="55" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Jupyter" width="57" height="55"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="57" height="55"/>
-<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="70" height="70"/>
-<img src=" https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="tensorflow" width="70" height="70"/>
-   
-    
+<img src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.svg" alt="pytorch" width="70" height="55"/>
+<img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="tensorflow" width="70" height="70"/>
 </div>
 
 ### Frameworks and Toolkits
 <p>
-  <img alt="OS" src="https://img.shields.io/badge/OS-Linux-informational?style=flat-squar&logo=linux&logoColor=white&color=2bbc8a" />
-  <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=yellow" />
   <img alt="Shell" src="https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -88,6 +84,11 @@
 <a href="https://github.com/Mm24/Software-applications-with-AI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm24&repo=Software-applications-with-AI" />
 </a>
+
+
+### Medical Image Processing  
+
+
 
 ## &#x1f4c8; GitHub Insights:
 

@@ -9,13 +9,13 @@
 
 ## About Me  👩‍🎓
 - 👩 My name is Maria Monzon, a curious mind from  and I'm a CV application developer and AI researcher.
-- 📫 **How to conect with me**: ![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mariamonzon24) ![](https://img.shields.io/badge/email-c14438.svg?&style=flat&logo=Gmail&logoColor=white&link=mailto:maria.monzon@fau.de) ![](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white&link=https://github.com/mm24)
 - 👨‍💻 I'm currently working full-time as Data Scientist & Computer Vision Engineer for DataScience for Biosicience at [BASF Digital Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
 - 🎓 MSc with Honors on Biomedical Engineerig at Friedrich Alexander University with strond focus on image and data processing. 
 - 🧠 Expertise in Image Procesing and Machine Learning and Statistics: 
     - ✔️ *Medical Imaging and Bio-Signal Processing*
     - ✔️ *Artificial intelligence*
     - ✔️ *Data Science and Biostatistics*
+ - 📫 **How to conect with me**: ![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mariamonzon24) ![](https://img.shields.io/badge/email-c14438.svg?&style=flat&logo=Gmail&logoColor=white&link=mailto:maria.monzon@fau.de) ![](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white&link=https://github.com/mm24)
 - 🌱 I’m currently learning on techniques Explainable Deep Learning and Deep Learning workflow Automation
 - 👯 I’m looking to collaborate on Open Source Biomedical and NeuroScience Projects
 - ⚡ Fun fact: I love cooking 
@@ -47,7 +47,6 @@
     Tools: Pytorch, OpenCV, PyDicom, Pandas, Skorch, DVC, Matplotlib, Seeborn, Flask, Docker, scikit-learn, Keras, LaTeX
     Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL
 
-
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black)
 
@@ -76,10 +75,14 @@
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 -->
-    
+## Experience with (Medical) Image Processing and
 ###  Imaging Processing and AI Frameworks
 
-
+Applied Visualization Plotly
+Dash Data Visualization Bokeh
+Matplotlib Seaborn Pandas
+Excel Jupter NB Numpy
+LaTeX SQL HTML5 Flask
 
 ### Coding Repositories 
 

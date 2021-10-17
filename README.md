@@ -44,18 +44,6 @@
 
 ### Frameworks and Toolkits
 
-Image Processing OpenCV PIL
-scikit Computer Vision (CV)
-Medical Imaging PyDICOM ITK
-MRI Registration Segmentation
-Biomedical Signal Analysis EEG
-ECG Signal Processing Scipy
-Applied Visualization Plotly
-Dash Data Visualization Bokeh
-Matplotlib Seaborn Pandas
-Excel Jupter NB Numpy
-LaTeX SQL HTML5 Flask
-
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black)
 ![](https://img.shields.io/badge/-scikit_learn-orange?style=flat&logo=scikitlearn&logoColor=orange&color=blue)
@@ -63,12 +51,16 @@ LaTeX SQL HTML5 Flask
 ![](https://img.shields.io/badge/-keras-red?style=flat&logo=Keras&color=red)
 ![](https://img.shields.io/badge/-pytorch_lightning-?style=flat&logo=pytorchlightning&color=8f00ff)
 ![](https://img.shields.io/badge/-skorch-gray?style=flat&logo=pytorch&color=white)
+![](https://img.shields.io/badge/-scipy-blue?style=flat&logo=scipy&logoColor=blue&color=white)
+
 ![](https://img.shields.io/badge/-pandas-gray?style=flat&logo=pandas&logoColor=white&color=gray)
+![](https://img.shields.io/badge/-matplotlib-red?style=flat&logo=plotly&color=Add8e6)
 ![](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/-Pydicom-gray?style=flat&logo=python&color=yellow)
-![](https://img.shields.io/badge/-matplotlib-red?style=flat&logo=plotly&color=Add8e6)
-![](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=lightgray&color=white)
+![](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=black&color=white)
+![](https://img.shields.io/badge/-numpy-blue?style=flat&logo=flask&logoColor=lightgray&color=white)
+![](https://img.shields.io/badge/-seaborn-blue?style=flat&logo=flask&logoColor=lightgray&color=white)
 
 
     Tools: Pytorch, OpenCV, PyDicom, Pandas, Skorch, DVC, Matplotlib, Seeborn, Flask, Docker, scikit-learn, Keras, LaTeX

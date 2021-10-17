@@ -24,6 +24,20 @@
 
 
 ##  Software Development Tools
+
+<div>
+<p align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="57" height="55"/>
+<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="57" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="57" height="55"/>
+<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_dvc.svg" alt="dvc" width="57" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="57" height="55"/>   
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="57" height="55"/>   
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="57" height="55"/>   
+</div>
+
+### Frameworks and Toolkits
 <p>
   <img alt="OS" src="https://img.shields.io/badge/OS-Linux-informational?style=flat-squar&logo=linux&logoColor=white&color=2bbc8a" />
   <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=yellow" />
@@ -58,17 +72,6 @@
     Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL
 -->
 
-<div>
-<p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="57" height="55"/>
-<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="70" height="70"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="57" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="57" height="55"/>
-<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_dvc.svg" alt="dvc" width="57" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="57" height="55"/>   
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="57" height="55"/>   
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="57" height="55"/>   
-</div>
 
 ### Coding Reoisitories 
 

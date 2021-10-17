@@ -9,9 +9,7 @@
 
 ## About Me  👩‍🎓
 - 👩 My name is Maria Monzon, a curious mind from  and I'm a CV application developer and AI researcher.
-- 📫 **How to conect with me**: ![](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white&link=https://github.com/mm24)
-![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mariamonzon24)
-![](https://img.shields.io/badge/email-c14438.svg?&style=flat&logo=Gmail&logoColor=white&link=mailto:maria.monzon@fau.de)
+- 📫 **How to conect with me**: ![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mariamonzon24) ![](https://img.shields.io/badge/email-c14438.svg?&style=flat&logo=Gmail&logoColor=white&link=mailto:maria.monzon@fau.de) ![](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white&link=https://github.com/mm24)
 - 👨‍💻 I'm currently working full-time as Data Scientist & Computer Vision Engineer for DataScience for Biosicience at [BASF Digital Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
 - 🎓 MSc with Honors on Biomedical Engineerig at Friedrich Alexander University 
 - 👯 I’m looking to collaborate on Open Source Biomedical and NeuroScience Projects
@@ -27,13 +25,14 @@
 
 <div>
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="57" height="55"/>
-<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="57" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="57" height="55"/>
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_dvc.svg" alt="dvc" width="57" height="55"/>
+    
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="57" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="57" height="55"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="57" height="55"/>   
+<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="57" height="55"/>   
 </div>
 
@@ -78,7 +77,7 @@
 <a href="https://github.com/amosproj/amos2021ss05-3d-viewer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amosproj&repo=amos2021ss05-3d-viewer" />
 </a>
-<a href="https://github.com/amosproj/amos2021ss05-3d-viewer">
+<a href="https://github.com/Mm24/Software-applications-with-AI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm24&repo=Software-applications-with-AI" />
 </a>
 

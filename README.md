@@ -70,14 +70,13 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 -->
     
-###  🔧 Imaging Processing and AI Frameworks
+###  Imaging Processing and AI Frameworks
 <!--
     Tools: Pytorch, OpenCV, PyDicom, Pandas, Skorch, DVC, Matplotlib, Seeborn, Flask, Docker, scikit-learn, Keras, LaTeX
     Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL
 -->
 
-
-### Coding Reoisitories 
+### Coding Repositories 
 
 <a href="https://github.com/amosproj/amos2021ss05-3d-viewer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amosproj&repo=amos2021ss05-3d-viewer" />

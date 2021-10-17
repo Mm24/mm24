@@ -13,23 +13,22 @@
 - 👨‍💻 I'm currently working full-time as Data Scientist & Computer Vision Engineer for DataScience for Biosicience at [BASF Digital Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
 - 🎓 MSc with Honors on Biomedical Engineerig at Friedrich Alexander University with strond focus on image and data processing. 
 - 🧠 Expertise in Image Procesing and Machine Learning and Statistics: 
-    - ✔️ *Medical Imaging and Bio-Signal Processing*: MRI, EEG, ECG, segmentation, tracking, registration, classification, preprocessing, image analysis.
-    - ✔️ *Artificial intelligence*: Pattern Recognition (PR), Deep Learning (DL), Computer Vision (CV), Machine Learning (ML), Convolutional Neural Networks (CNN), Transfer Learning, Classification, Regression, Supervised Learning
-    - ✔️ *Data Science*: Statistical analysis, Databases, Information Theory, Data Analysis, Probability, Data Mining
+    - ✔️ *Medical Imaging and Bio-Signal Processing*
+    - ✔️ *Artificial intelligence*
+    - ✔️ *Data Science and Biostatistics*
 - 🌱 I’m currently learning on techniques Explainable Deep Learning and Deep Learning workflow Automation
 - 👯 I’m looking to collaborate on Open Source Biomedical and NeuroScience Projects
-- ⚡ Fun fact: I love cooking
+- ⚡ Fun fact: I love cooking 
 
 
 ##  Software Development Tools
-
 <div>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="git" width="57" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="57" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="57" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="57" height="55"/>   
 <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_dvc.svg" alt="dvc" width="57" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="57" height="55"/>   
 <img src="https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png" width="57">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="57" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="57" height="55"/>
@@ -44,7 +43,15 @@
 </div>
 
 ### Frameworks and Toolkits
-<p>
+
+    Tools: Pytorch, OpenCV, PyDicom, Pandas, Skorch, DVC, Matplotlib, Seeborn, Flask, Docker, scikit-learn, Keras, LaTeX
+    Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL
+
+
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black)
+
+<p> 
   <img alt="Shell" src="https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -71,10 +78,8 @@
 -->
     
 ###  Imaging Processing and AI Frameworks
-<!--
-    Tools: Pytorch, OpenCV, PyDicom, Pandas, Skorch, DVC, Matplotlib, Seeborn, Flask, Docker, scikit-learn, Keras, LaTeX
-    Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL
--->
+
+
 
 ### Coding Repositories 
 
@@ -86,7 +91,11 @@
 </a>
 
 
-### Medical Image Processing Experience
+### Expertise
+- 🧠 Expertise in Image Procesing and Machine Learning and Statistics: 
+    - ✔️ *Medical Imaging and Bio-Signal Processing*: MRI, EEG, ECG, segmentation, tracking, registration, classification, preprocessing, image analysis.
+    - ✔️ *Artificial intelligence*: Pattern Recognition (PR), Deep Learning (DL), Computer Vision (CV), Machine Learning (ML), Convolutional Neural Networks (CNN), Transfer Learning, Classification, Regression, Supervised Learning
+    - ✔️ *Data Science*: Statistical analysis, Databases, Information Theory, Data Analysis, Probability, Data Mining
 
 
 

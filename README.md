@@ -62,8 +62,8 @@ LaTeX SQL HTML5 Flask
 ![](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/-pandas-gray?style=flat&logo=pandas&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/-Pydicom-gray?style=flat&logo=python&color=yellow)
-![](https://img.shields.io/badge/-skorch-gray?style=flat&logo=python&color=orange)
-![](https://img.shields.io/badge/-matplotlib-red?style=flat&logo=matplotlib&color=orange)
+![](https://img.shields.io/badge/-skorch-gray?style=flat&logo=pytorch&color=orange)
+![](https://img.shields.io/badge/-matplotlib-red?style=flat&logo=plotly&color=gray)
 
     Tools: Pytorch, OpenCV, PyDicom, Pandas, Skorch, DVC, Matplotlib, Seeborn, Flask, Docker, scikit-learn, Keras, LaTeX
     Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL

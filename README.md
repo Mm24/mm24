@@ -49,11 +49,11 @@
 ![](https://img.shields.io/badge/-numpy-blue?style=flat&logo=numpy&logoColor=blue&color=white)
 ![](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=black&color=white)
 ![](https://img.shields.io/badge/-scikit_learn-orange?style=flat&logo=scikitlearn&logoColor=orange&color=blue)
+![](https://img.shields.io/badge/-scipy-blue?style=flat&logo=scipy&logoColor=blue&color=white)
+![](https://img.shields.io/badge/-skorch-gray?style=flat&logo=pytorch&color=white) # https://github.com/skorch-dev/skorch/blob/master/assets/button.svg
 ![](https://img.shields.io/badge/-pytorch-black?style=flat&logo=pytorch&color=white)
 ![](https://img.shields.io/badge/-keras-red?style=flat&logo=Keras&color=red)
 ![](https://img.shields.io/badge/-pytorch_lightning-?style=flat&logo=pytorchlightning&color=8f00ff)
-![](https://img.shields.io/badge/-skorch-gray?style=flat&logo=pytorch&color=white)
-![](https://img.shields.io/badge/-scipy-blue?style=flat&logo=scipy&logoColor=blue&color=white)
 ![](https://img.shields.io/badge/-pandas-gray?style=flat&logo=pandas&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/-matplotlib-red?style=flat&logo=plotly&color=Add8e6)
 ![](https://img.shields.io/badge/-seaborn-blue?style=flat&logo=flask&logoColor=lightgray&color=white)

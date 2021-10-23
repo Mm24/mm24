@@ -40,6 +40,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="57" height="55"/>
 <img src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-flame.svg" alt="pytorch" width="57" height="55"/>
 <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="tensorflow" width="55" height="55"/>
+<img src="https://github.com/skorch-dev/skorch/blob/master/assets/button.svg" alt="pytorch" width="57" height="55"/>
+
 </div>
 
 ### Frameworks and Toolkits
@@ -50,7 +52,7 @@
 ![](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=black&color=white)
 ![](https://img.shields.io/badge/-scikit_learn-orange?style=flat&logo=scikitlearn&logoColor=orange&color=blue)
 ![](https://img.shields.io/badge/-scipy-blue?style=flat&logo=scipy&logoColor=blue&color=white)
-![](https://img.shields.io/badge/-skorch-gray?style=flat&logo=pytorch&color=white) # https://github.com/skorch-dev/skorch/blob/master/assets/button.svg
+![](https://img.shields.io/badge/-skorch-gray?style=flat&logo=pytorch&color=white) 
 ![](https://img.shields.io/badge/-pytorch-black?style=flat&logo=pytorch&color=white)
 ![](https://img.shields.io/badge/-keras-red?style=flat&logo=Keras&color=red)
 ![](https://img.shields.io/badge/-pytorch_lightning-?style=flat&logo=pytorchlightning&color=8f00ff)

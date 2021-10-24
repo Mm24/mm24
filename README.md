@@ -89,9 +89,9 @@
 </a>
 
 ## 🧠 Expertise in (Medical) Image Processing and Artificial Intelligence
-    - *Medical Imaging and Bio-Signal Processing*: MRI, EEG, ECG, segmentation, tracking, registration, classification, preprocessing, image analysis.
-    - *Artificial intelligence*: Pattern Recognition (PR), Deep Learning (DL), Computer Vision (CV), Machine Learning (ML), Convolutional Neural Networks (CNN), Transfer Learning, Classification, Regression, Supervised Learning
-    - *Data Science*: Statistical analysis, Databases, Information Theory, Data Analysis, Probability, Data Mining
+- *Medical Imaging and Bio-Signal Processing*: MRI, EEG, ECG, segmentation, tracking, registration, classification, preprocessing, image analysis.
+- *Artificial intelligence*: Pattern Recognition (PR), Deep Learning (DL), Computer Vision (CV), Machine Learning (ML), Convolutional Neural Networks (CNN), Transfer Learning, Classification, Regression, Supervised Learning
+- *Data Science*: Statistical analysis, Databases, Information Theory, Data Analysis, Probability, Data Mining
 
 ###  Imaging Processing and AI Frameworks
 

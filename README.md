@@ -20,16 +20,22 @@
 - 👯 I’m looking to collaborate on Open Source Biomedical and NeuroScience Projects
 - ⚡ Fun fact: I love cooking 
 
+## 🧠 Expertise in (Medical) Image & Signal Processing and Artificial Intelligence
+| Medical Signals & Imaging | Artificial intelligence   |Computer Science & Mathematics | Visual computing        | 
+| :---                      |           :----:          |           :----:              |    :----:               |      
+| MRI                       |Pattern Recognition (PR)   |  Object Oriented Programming  | Preprocessing           | 
+| CT                        |Deep Learning (DL)         |        Data structures        | Segmentation            |
+| Computational Pathology   |Computer Vision (CV)       |        Statistics             | Registration            |
+| X-Ray                     |Machine Learning (ML)      |           Calculus            | Classification
+| EEG                       |Neural Networks (CNN)      |           Algebra             | Regression        |
+| ECG                       |Transfer Learning          |      Information Theory       | Image Tracking        |
+| EMG                       |Reinforcement Learning (RL)|          Data Mining          | Medical Image reconstruction |
+
+
 
 ##  Software Development Tools
 <div>
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="git" width="57" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="57" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="57" height="55"/>
-<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_dvc.svg" alt="dvc" width="57" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="57" height="55"/>   
-<img src="https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png" width="57">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="57" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="57" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Cpp" width="57" height="55"/>
@@ -43,10 +49,22 @@
 </p>
 </div>
 
+<div>
+<p align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="git" width="57" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="57" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="57" height="55"/>
+<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_dvc.svg" alt="dvc" width="57" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="57" height="55"/>   
+<img src="https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png" width="57">
+</p>
+</div>
+
 ### Frameworks and Toolkits
     Tools: Pytorch, OpenCV, PyDicom, Pandas, Skorch, DVC, Matplotlib, Seeborn, Flask, Docker, scikit-learn, Keras, LaTeX
     Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL
     Applied Visualization:  Plotly, Dash Data Visualization Bokeh,  Matplotlib Seaborn Pandas
+    
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/flat-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![](https://img.shields.io/badge/Shell-Bash-007ACC?style=flat&logo=gnu-bash&logoColor=white&color=black)
@@ -86,29 +104,6 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 -->
 
-### Pinned Example Repositories 
-
-<a href="https://github.com/amosproj/amos2021ss05-3d-viewer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amosproj&repo=amos2021ss05-3d-viewer" />
-</a>
-<a href="https://github.com/Mm24/Software-applications-with-AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm24&repo=Software-applications-with-AI" />
-</a>
-
-## 🧠 Expertise in (Medical) Image & Signal Processing and Artificial Intelligence
-| Medical Signals & Imaging | Artificial intelligence   |Computer Science & Mathematics | Visual computing        | 
-| :---                      |           :----:          |           :----:              |    :----:               |      
-| MRI                       |Pattern Recognition (PR)   |  Object Oriented Programming  | Preprocessing           | 
-| CT                        |Deep Learning (DL)         |        Data structures        | Segmentation            |
-| Computational Pathology   |Computer Vision (CV)       |        Statistics             | Registration            |
-| X-Ray                     |Machine Learning (ML)      |           Calculus            | Classification
-| EEG                       |Neural Networks (CNN)      |           Algebra             | Regression        |
-| ECG                       |Transfer Learning          |      Information Theory       | Image Tracking        |
-| EMG                       |Reinforcement Learning (RL)|          Data Mining          | Medical Image reconstruction |
-
-- *Medical Imaging and Bio-Signal Processing*: MRI, EEG, , segmentation, tracking, registration, classification, regression, preprocessing, image analysis.
-
-###  Imaging Processing and AI Frameworks
 
 
 ## &#x1f4c8; GitHub Insights:
@@ -119,6 +114,18 @@
 <a href="https://github.com/mm24">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mm24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mm24's GitHub Stats" />
 </a>
+
+### Pinned Example Repositories 
+
+<a href="https://github.com/amosproj/amos2021ss05-3d-viewer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amosproj&repo=amos2021ss05-3d-viewer" />
+</a>
+<a href="https://github.com/Mm24/Software-applications-with-AI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm24&repo=Software-applications-with-AI" />
+</a>
+
+
+
 <details> 
       <summary>Open source projects stat</summary>
 <p>

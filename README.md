@@ -40,17 +40,18 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="57" height="55"/>
 <img src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-flame.svg" alt="pytorch" width="57" height="55"/>
 <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="tensorflow" width="55" height="55"/>
+</p>
 </div>
 
 ### Frameworks and Toolkits
     Tools: Pytorch, OpenCV, PyDicom, Pandas, Skorch, DVC, Matplotlib, Seeborn, Flask, Docker, scikit-learn, Keras, LaTeX
     Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL
-<div>
+    Applied Visualization:  Plotly, Dash Data Visualization Bokeh,  Matplotlib Seaborn Pandas
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=black)
+![](https://img.shields.io/badge/flat-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![](https://img.shields.io/badge/Shell-Bash-007ACC?style=flat&logo=gnu-bash&logoColor=white&color=black)
 ![](https://img.shields.io/badge/-numpy-blue?style=flat&logo=numpy&logoColor=blue&color=white)
 ![](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=black&color=white)
-</div>
 ![](https://img.shields.io/badge/-scikit_learn-orange?style=flat&logo=scikitlearn&logoColor=orange&color=blue)
 ![](https://img.shields.io/badge/-scipy-blue?style=flat&logo=scipy&logoColor=blue&color=white)
 ![](https://img.shields.io/badge/-keras-red?style=flat&logo=Keras&color=red)
@@ -62,10 +63,16 @@
 ![](https://img.shields.io/badge/-plotly-blue?style=flat&logo=plotly&logoColor=lightgray&color=white)
 ![](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/-Pydicom-gray?style=flat&logo=python&color=yellow)
+
 ![](https://img.shields.io/badge/Visualization-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-<img src="https://github.com/skorch-dev/skorch/blob/master/assets/button.svg" alt="pytorch" width="57" height="55"/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 
 <!--
+<img src="https://github.com/skorch-dev/skorch/blob/master/assets/button.svg" alt="pytorch" width="57" height="55"/>
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -79,7 +86,7 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 -->
 
-### Coding Repositories 
+### Pinned Example Repositories 
 
 <a href="https://github.com/amosproj/amos2021ss05-3d-viewer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amosproj&repo=amos2021ss05-3d-viewer" />
@@ -88,18 +95,21 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm24&repo=Software-applications-with-AI" />
 </a>
 
-## 🧠 Expertise in (Medical) Image Processing and Artificial Intelligence
-- *Medical Imaging and Bio-Signal Processing*: MRI, EEG, ECG, segmentation, tracking, registration, classification, preprocessing, image analysis.
-- *Artificial intelligence*: Pattern Recognition (PR), Deep Learning (DL), Computer Vision (CV), Machine Learning (ML), Convolutional Neural Networks (CNN), Transfer Learning, Classification, Regression, Supervised Learning
-- *Data Science*: Statistical analysis, Databases, Information Theory, Data Analysis, Probability, Data Mining
+## 🧠 Expertise in (Medical) Image & Signal Processing and Artificial Intelligence
+| Medical Signals & Imaging | Artificial intelligence   |Computer Science & Mathematics | Visual computing        | 
+| :---                      |           :----:          |           :----:              |    :----:               |      
+| MRI                       |Pattern Recognition (PR)   |  Object Oriented Programming  | Preprocessing           | 
+| CT                        |Deep Learning (DL)         |        Data structures        | Segmentation            |
+| Computational Pathology   |Computer Vision (CV)       |        Statistics             | Registration            |
+| X-Ray                     |Machine Learning (ML)      |           Calculus            | Classification
+| EEG                       |Neural Networks (CNN)      |           Algebra             | Regression        |
+| ECG                       |Transfer Learning          |      Information Theory       | Image Tracking        |
+| EMG                       |Reinforcement Learning (RL)|          Data Mining          | Medical Image reconstruction |
+
+- *Medical Imaging and Bio-Signal Processing*: MRI, EEG, , segmentation, tracking, registration, classification, regression, preprocessing, image analysis.
 
 ###  Imaging Processing and AI Frameworks
 
-Applied Visualization Plotly
-Dash Data Visualization Bokeh
-Matplotlib Seaborn Pandas
-Excel Jupter NB Numpy
-LaTeX SQL HTML5 Flask
 
 ## &#x1f4c8; GitHub Insights:
 

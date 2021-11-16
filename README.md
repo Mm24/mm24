@@ -33,7 +33,8 @@
 
 
 
-##  Software Development 
+##  Software Development
+
 <div>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="57" height="55"/>
@@ -67,9 +68,15 @@
     Applied Visualization:  Plotly, Dash Data Visualization Bokeh,  Matplotlib Seaborn Pandas
 -->
 
-![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/flat-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-007ACC?style=flat&logo=gnu-bash&logoColor=white&color=black)
+![Python](https://img.shields.io/badge/code-Python-informational?style=flat&logo=Python&color=3476aa)
+![JavaScript](https://img.shields.io/badge/code-JavaScript-black?style=flat&logo=javascript)
+![Cpp](https://img.shields.io/badge/code-Cpp-informational?style=flat&logo=cplusplus&color=00599c)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=0db7ed)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&color=326ce5)
+![](https://img.shields.io/badge/IDLE-Pycharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=fcf849)
+![](https://img.shields.io/badge/IDLE-VS%20Code-007ACC?style=flat&logo=visual-studio-code&color=00a2ed)
 ![](https://img.shields.io/badge/-numpy-blue?style=flat&logo=numpy&logoColor=blue&color=white)
 ![](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=black&color=white)
 ![](https://img.shields.io/badge/-scikit_learn-orange?style=flat&logo=scikitlearn&logoColor=orange&color=blue)
@@ -77,36 +84,13 @@
 ![](https://img.shields.io/badge/-keras-red?style=flat&logo=Keras&color=red)
 ![](https://img.shields.io/badge/-pytorch-?style=flat&logo=pytorchlightning&color=white)
 ![](https://img.shields.io/badge/-pytorch_lightning-?style=flat&logo=pytorchlightning&color=8f00ff)
+![](https://img.shields.io/badge/-Monai-gray?style=flat&logo=python&color=yellow)
 ![](https://img.shields.io/badge/-pandas-gray?style=flat&logo=pandas&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/-matplotlib-red?style=flat&logo=plotly&color=Add8e6)
-![](https://img.shields.io/badge/-seaborn-blue?style=flat&logoColor=lightgray&color=white)
+![](https://img.shields.io/badge/-seaborn-blue?style=flatt&logo=seaborn&logoColor=lightgray&color=white)
 ![](https://img.shields.io/badge/-plotly-blue?style=flat&logo=plotly&logoColor=lightgray&color=white)
 ![](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/-Pydicom-gray?style=flat&logo=python&color=yellow)
-
-![](https://img.shields.io/badge/Visualization-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-
-<!--
-<img src="https://github.com/skorch-dev/skorch/blob/master/assets/button.svg" alt="pytorch" width="57" height="55"/>
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
--->
-
-
 
 ## &#x1f4c8; GitHub Insights:
 

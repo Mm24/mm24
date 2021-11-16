@@ -33,7 +33,7 @@
 
 
 
-##  Software Development Tools
+##  Software Development 
 <div>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="57" height="55"/>
@@ -61,10 +61,12 @@
 </div>
 
 ### Frameworks and Toolkits
+<!--
     Tools: Pytorch, OpenCV, PyDicom, Pandas, Skorch, DVC, Matplotlib, Seeborn, Flask, Docker, scikit-learn, Keras, LaTeX
     Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL
     Applied Visualization:  Plotly, Dash Data Visualization Bokeh,  Matplotlib Seaborn Pandas
-    
+-->
+
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/flat-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![](https://img.shields.io/badge/Shell-Bash-007ACC?style=flat&logo=gnu-bash&logoColor=white&color=black)

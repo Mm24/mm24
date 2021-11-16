@@ -114,7 +114,7 @@
 <a href="https://github.com/mm24">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mm24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mm24's GitHub Stats" />
 </a>
-
+<!--
 ### Pinned Example Repositories 
 
 <a href="https://github.com/amosproj/amos2021ss05-3d-viewer">
@@ -123,8 +123,7 @@
 <a href="https://github.com/Mm24/Software-applications-with-AI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mm24&repo=Software-applications-with-AI" />
 </a>
-
-
+-->
 
 <details> 
       <summary>Open source projects stat</summary>

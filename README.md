@@ -93,7 +93,7 @@
 ![](https://img.shields.io/badge/-Monai-gray?style=flat&logo=python&color=yellow)
 ![](https://img.shields.io/badge/-pandas-gray?style=flat&logo=pandas&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/-matplotlib-red?style=flat&logo=plotly&color=Add8e6)
-![](https://img.shields.io/badge/-seaborn-blue?style=flatt&logo=seaborn&logoColor=lightgray&color=white)
+![](https://img.shields.io/badge/-seaborn-blue?style=flatt&logo=pandas&logoColor=lightgray&color=white)
 ![](https://img.shields.io/badge/-plotly-blue?style=flat&logo=plotly&logoColor=lightgray&color=white)
 ![](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/-Pydicom-gray?style=flat&logo=python&color=yellow)

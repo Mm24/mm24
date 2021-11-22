@@ -68,13 +68,21 @@
     Applied Visualization:  Plotly, Dash Data Visualization Bokeh,  Matplotlib Seaborn Pandas
 -->
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=8b045b)
 ![](https://img.shields.io/badge/Shell-Bash-007ACC?style=flat&logo=gnu-bash&logoColor=white&color=black)
 ![Python](https://img.shields.io/badge/code-Python-informational?style=flat&logo=Python&color=3476aa)
-![JavaScript](https://img.shields.io/badge/code-JavaScript-black?style=flat&logo=javascript)
 ![Cpp](https://img.shields.io/badge/code-Cpp-informational?style=flat&logo=cplusplus&color=00599c)
+![JavaScript](https://img.shields.io/badge/code-JavaScript-black?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/code-HTML-orange?style=flat&logo=html5)
+![CSSS](https://img.shields.io/badge/code-CSS-blue?style=flat&logo=css3)
+![](https://img.shields.io/badge/Tools-DVC-informational?style=flat&logo=git&color=13adc7)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F1502F)
+
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=0db7ed)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&color=326ce5)
+
+
+
 ![](https://img.shields.io/badge/IDLE-Pycharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=fcf849)
 ![](https://img.shields.io/badge/IDLE-VS%20Code-007ACC?style=flat&logo=visual-studio-code&color=00a2ed)
 ![](https://img.shields.io/badge/-numpy-blue?style=flat&logo=numpy&logoColor=blue&color=white)

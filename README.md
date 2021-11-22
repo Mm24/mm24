@@ -79,7 +79,6 @@
 ![](https://img.shields.io/badge/Tools-DVC-informational?style=flat&logo=git&color=13adc7&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F1502F)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=0db7ed)
-
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&color=326ce5)
 ![](https://img.shields.io/badge/IDLE-Pycharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=fcf849)
 ![](https://img.shields.io/badge/IDLE-VS%20Code-007ACC?style=flat&logo=visual-studio-code&color=00a2ed)

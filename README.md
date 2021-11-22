@@ -9,7 +9,7 @@
 
 ## About Me  👩‍🎓
 - 👩 My name is Maria Monzon, a curious mind from  and I'm a CV application developer and AI researcher.
-- 👨‍💻 I'm currently working full-time as Data Scientist & Computer Vision Engineer for DataScience for Biosicience at [BASF Digital Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
+- 👨‍💻 I'm currently working full-time as Data Scientist & Computer Vision Engineer fGitor DataScience for Biosicience at [BASF Digital Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
 - 🎓 MSc with Honors on Biomedical Engineerig at Friedrich Alexander University with strond focus on image and data processing. 
 - 🧠 Expertise in Image Procesing and Machine Learning and Statistics: 
     - ✔️ *Medical Imaging and Bio-Signal Processing*
@@ -71,6 +71,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=8b045b)
 ![](https://img.shields.io/badge/Shell-Bash-007ACC?style=flat&logo=gnu-bash&logoColor=white&color=black)
 ![Python](https://img.shields.io/badge/code-Python-informational?style=flat&logo=Python&color=3476aa)
+![MATLAB](https://img.shields.io/badge/code-Matlab-informational?style=flat&logo=Matlab&color=fcb011)
 ![Cpp](https://img.shields.io/badge/code-Cpp-informational?style=flat&logo=cplusplus&color=00599c)
 ![JavaScript](https://img.shields.io/badge/code-JavaScript-black?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/code-HTML-orange?style=flat&logo=html5)

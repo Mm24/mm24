@@ -87,7 +87,7 @@
 ![](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=black&color=white)
 ![](https://img.shields.io/badge/-scikit_learn-orange?style=flat&logo=scikitlearn&logoColor=orange&color=blue)
 ![](https://img.shields.io/badge/-scipy-blue?style=flat&logo=scipy&logoColor=blue&color=white)
-![](https://img.shields.io/badge/-Pytorch-gray?style=flat&logo=pytorch&color=red&logoColor=white)
+![](https://img.shields.io/badge/-Pytorch-gray?style=flat&logo=pytorch&color=ee4c2c&logoColor=white)
 ![](https://img.shields.io/badge/-keras-red?style=flat&logo=Keras&color=red)
 ![](https://img.shields.io/badge/-skorch-?style=flat&logo=pytorch&color=white)
 ![](https://img.shields.io/badge/-pytorch_lightning-?style=flat&logo=pytorch&color=8f00ff)

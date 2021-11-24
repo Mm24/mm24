@@ -82,7 +82,6 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&color=326ce5)
 ![](https://img.shields.io/badge/IDLE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=fcf849)
 ![](https://img.shields.io/badge/IDLE-VS%20Code-007ACC?style=flat&logo=visual-studio-code&color=00a2ed)
-
 ![](https://img.shields.io/badge/-numpy-blue?style=flat&logo=numpy&logoColor=blue&color=white)
 ![](https://img.shields.io/badge/-pandas-gray?style=flat&logo=pandas&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/-scikit_learn-orange?style=flat&logo=scikitlearn&logoColor=orange&color=blue)
@@ -92,7 +91,7 @@
 ![](https://img.shields.io/badge/-FastAI-gray?style=flat&logo=fastapi&color=gray&logoColor=black)
 ![](https://img.shields.io/badge/-skorch-white?style=flat&logo=scikitlearn&color=ee4c2c&logoColor=blue)
 ![](https://img.shields.io/badge/-Lightning-white?style=flat&logo=pytorchlightning&color=792ee5)
-![](https://img.shields.io/badge/-Jupyter-gray?style=flat&logo=jupyter&color=f37726&logoColor=9e9e9e)
+![](https://img.shields.io/badge/-Jupyter-gray?style=flat&logo=jupyter&color=9e9e9e&logoColor=f37726)
 ![](https://img.shields.io/badge/-matplotlib-red?style=flat&logo=plotly&color=Add8e6)
 ![](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/-seaborn-blue?style=flatt&logo=pandas&logoColor=white&color=85aac6)

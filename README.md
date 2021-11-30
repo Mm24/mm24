@@ -19,21 +19,8 @@
 - 🌱 I’m currently learning on techniques Explainable Deep Learning and Deep Learning workflow Automation
 - 👯 I’m looking to collaborate on Open Source Biomedical and NeuroScience Projects
 - ⚡ Fun fact: I love cooking 
-
-## 🧠 Expertise in (Medical) Image & Signal Processing and Artificial Intelligence
-| Medical Signals & Imaging | Artificial intelligence   |Computer Science & Mathematics | Visual computing        | 
-| :---                      |           :----:          |           :----:              |    :----:               |      
-| MRI                       |Pattern Recognition (PR)   |  Object Oriented Programming  | Preprocessing           | 
-| CT                        |Deep Learning (DL)         |        Data structures        | Segmentation            |
-| Computational Pathology   |Computer Vision (CV)       |        Statistics             | Registration            |
-| X-Ray                     |Machine Learning (ML)      |           Calculus            | Classification
-| EEG                       |Neural Networks (CNN)      |           Algebra             | Regression        |
-| ECG                       |Transfer Learning          |      Information Theory       | Image Tracking        |
-| EMG                       |Reinforcement Learning (RL)|          Data Mining          | Medical Image reconstruction |
-
-
-
-##  Software Development
+- 
+## 💻 Software Development
 
 <div>
 <p align="center">
@@ -60,6 +47,23 @@
 <img src="https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png" width="57">
 </p>
 </div>
+
+## 🧠 Expertise in (Medical) Image & Signal Processing and Artificial Intelligence
+| Medical Signals & Imaging | Artificial intelligence   |Computer Science & Mathematics | Visual computing        | 
+| :---                      |           :----:          |           :----:              |    :----:               |      
+| MRI                       |Pattern Recognition (PR)   |  Object Oriented Programming  | Preprocessing           | 
+| CT                        |Deep Learning (DL)         |        Data structures        | Segmentation            |
+| Computational Pathology   |Computer Vision (CV)       |        Statistics             | Registration            |
+| X-Ray                     |Machine Learning (ML)      |           Calculus            | Classification
+| EEG                       |Neural Networks (CNN)      |           Algebra             | Regression        |
+| ECG                       |Transfer Learning          |      Information Theory       | Image Tracking        |
+| EMG                       |Reinforcement Learning (RL)|          Data Mining          | Medical Image reconstruction |
+
+
+
+
+## &#x1f4c8; Coding Insights:
+
 
 ### Frameworks and Toolkits
 <!--
@@ -104,9 +108,6 @@
 ![](https://img.shields.io/badge/-MNE-gray?style=flat&logo=appsignal&color=blue&logoColor=orange)
 ![](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=black&color=white)
 ![](https://img.shields.io/badge/-dash-blue?style=flat&logo=dash&logoColor=lightgray&color=white)
-
-
-## &#x1f4c8; GitHub Insights:
 
 <a href="https://github.com/mm24/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm24&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&count_private=true" />

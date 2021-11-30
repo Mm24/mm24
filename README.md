@@ -5,22 +5,24 @@
 - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+![](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white&link=https://github.com/mm24)
 -->
 
-## About Me  👩‍🎓
+## About Me  👩‍🎓  
 - 👩 My name is Maria Monzon, a curious mind from  and I'm a CV application developer and AI researcher.
-- 👨‍💻 I'm currently working full-time as Data Scientist & Computer Vision Engineer fGitor DataScience for Biosicience at [BASF Digital Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
+- ![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mariamonzon24) 👨‍💻 I'm currently working full-time as Data Scientist & Computer Vision Engineer for DataScience for Biosicience at [BASF Digital Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
 - 🎓 MSc with Honors on Biomedical Engineerig at Friedrich Alexander University with strond focus on image and data processing. 
 - 🧠 Expertise in Image Procesing and Machine Learning and Statistics: 
     - ✔️ *Medical Imaging and Bio-Signal Processing*
     - ✔️ *Artificial intelligence*
     - ✔️ *Data Science and Biostatistics*
- - 📫 **How to conect with me**: ![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mariamonzon24) ![](https://img.shields.io/badge/email-c14438.svg?&style=flat&logo=Gmail&logoColor=white&link=mailto:maria.monzon@fau.de) ![](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white&link=https://github.com/mm24)
 - 🌱 I’m currently learning on techniques Explainable Deep Learning and Deep Learning workflow Automation
-- 👯 I’m looking to collaborate on Open Source Biomedical and NeuroScience Projects
+- 👯 
+ I’m looking to collaborate on Open Source Biomedical and NeuroScience Projects
 - ⚡ Fun fact: I love cooking 
-- 
-## 💻 Software Development
+ - 📫 **How to conect with me**: ![](https://img.shields.io/badge/email-c14438.svg?&style=flat&logo=Gmail&logoColor=white&link=mailto:maria.monzon@fau.de)
+
+ ## 💻 Software Development
 
 <div>
 <p align="center">

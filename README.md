@@ -10,7 +10,7 @@
 
 ## About Me  👩‍🎓  
 - 👩 My name is Maria Monzon, a curious mind from  and I'm a CV application developer and AI researcher.
-- 👨‍💻 I'm currently working full-time as Computer Vision ![](https://img.shields.io/badge/-dash-blue?style=flat&logo=dash&logoColor=lightgray&color=white)Engineer & DL Researcher in Advance Imaging at [BASF Digital Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
+- 👨‍💻 I'm currently working full-time as Computer Vision Engineer & DL Researcher in Advance Imaging at [BASF Digital Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
 - 🎓 MSc with Honors on Biomedical Engineerig at Friedrich Alexander University with strond focus on image and data processing. 
 - 🧠 Expertise in Image Procesing and Machine Learning and Statistics: 
     - ✔️ *Medical Imaging and Bio-Signal Processing*

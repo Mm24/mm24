@@ -71,7 +71,9 @@
 <!--
     Tools: Pytorch, OpenCV, PyDicom, Pandas, Skorch, DVC, Matplotlib, Seeborn, Flask, Docker, scikit-learn, Keras, LaTeX
     Software Development: Python, Git, MATLAB, C++, Java,Linux, Data Structures, HTML5, SQL
-    Applied Visualization:  Plotly, Dash Data Visualization Bokeh,  Matplotlib Seaborn Pandas
+    Applied Visualization:  Plotly, 
+ 
+Data Visualization Bokeh,  Matplotlib Seaborn Pandas
 -->
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=8b045b&logoColor=8b045b)
@@ -102,6 +104,7 @@
 ![](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/-seaborn-blue?style=flatt&logo=pandas&logoColor=white&color=85aac6)
 ![](https://img.shields.io/badge/-plotly-blue?style=flat&logo=plotly&logoColor=lightgray&color=white)
+![](https://img.shields.io/badge/-dash-blue?style=flat&logo=dash&logoColor=lightgray&color=white)
 ![](https://img.shields.io/badge/-PyDICOM-gray?style=flat&logo=python&color=yellow)
 ![](https://img.shields.io/badge/-TorchIO-gray?style=flat&logo=pytorch&color=purple&logoColor=white)
 ![](https://img.shields.io/badge/-NiBabel-gray?style=flat&logo=scipy&color=85aac6&logoColor=cec890)
@@ -109,7 +112,7 @@
 ![](https://img.shields.io/badge/-braindecode-gray?style=flat&logo=MusicBrainz&color=gray&logoColor=white)
 ![](https://img.shields.io/badge/-MNE-gray?style=flat&logo=appsignal&color=blue&logoColor=orange)
 ![](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=black&color=white)
-![](https://img.shields.io/badge/-dash-blue?style=flat&logo=dash&logoColor=lightgray&color=white)
+
 <!--
 ### GitHub Statistics
 <a href="https://github.com/mm24/">

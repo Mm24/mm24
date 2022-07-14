@@ -10,7 +10,7 @@
 
 ## About Me  👩‍🎓  
 - 👩 My name is Maria Monzon, a curious mind from  and I'm a CV application developer and AI researcher.
-- 👨‍💻 I'm currently working full-time as Computer Vision Engineer & DL Researcher in Advance Imaging at [BASF Digital Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
+- 👨‍💻 I'm currently working full-time as Computer Vision ![](https://img.shields.io/badge/-dash-blue?style=flat&logo=dash&logoColor=lightgray&color=white)Engineer & DL Researcher in Advance Imaging at [BASF Digital Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
 - 🎓 MSc with Honors on Biomedical Engineerig at Friedrich Alexander University with strond focus on image and data processing. 
 - 🧠 Expertise in Image Procesing and Machine Learning and Statistics: 
     - ✔️ *Medical Imaging and Bio-Signal Processing*
@@ -88,8 +88,7 @@ Data Visualization Bokeh,  Matplotlib Seaborn Pandas
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F1502F)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=0db7ed)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&color=326ce5)
-![](https://img.shields.io/badge/IDLE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=fcf849)
-![](https://img.shields.io/badge/IDLE-VS%20Code-007ACC?style=flat&logo=visual-studio-code&color=00a2ed)
+![](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=black&color=white)
 ![](https://img.shields.io/badge/-numpy-blue?style=flat&logo=numpy&logoColor=blue&color=white)
 ![](https://img.shields.io/badge/-pandas-gray?style=flat&logo=pandas&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/-scikit_learn-orange?style=flat&logo=scikitlearn&logoColor=orange&color=blue)
@@ -108,10 +107,11 @@ Data Visualization Bokeh,  Matplotlib Seaborn Pandas
 ![](https://img.shields.io/badge/-PyDICOM-gray?style=flat&logo=python&color=yellow)
 ![](https://img.shields.io/badge/-TorchIO-gray?style=flat&logo=pytorch&color=purple&logoColor=white)
 ![](https://img.shields.io/badge/-NiBabel-gray?style=flat&logo=scipy&color=85aac6&logoColor=cec890)
-![](https://img.shields.io/badge/-Monai-gray?style=flat&logo=Broadcom&color=5dc1b7)
 ![](https://img.shields.io/badge/-braindecode-gray?style=flat&logo=MusicBrainz&color=gray&logoColor=white)
 ![](https://img.shields.io/badge/-MNE-gray?style=flat&logo=appsignal&color=blue&logoColor=orange)
-![](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=black&color=white)
+![](https://img.shields.io/badge/-Monai-gray?style=flat&logo=Broadcom&color=5dc1b7)
+![](https://img.shields.io/badge/IDLE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=fcf849)
+![](https://img.shields.io/badge/IDLE-VS%20Code-007ACC?style=flat&logo=visual-studio-code&color=00a2ed)
 
 <!--
 ### GitHub Statistics

@@ -76,19 +76,24 @@
 Data Visualization Bokeh,  Matplotlib Seaborn Pandas
 -->
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=8b045b&logoColor=8b045b)
-![](https://img.shields.io/badge/Shell-Bash-007ACC?style=flat&logo=gnu-bash&logoColor=white&color=black)
 ![Python](https://img.shields.io/badge/code-Python-informational?style=flat&logo=Python&color=3476aa)
 ![MATLAB](https://img.shields.io/badge/code-Matlab-informational?style=flat&logo=matrix&color=fcb011)
 ![Cpp](https://img.shields.io/badge/code-Cpp-informational?style=flat&logo=cplusplus&color=00599c&logoColor=00599c)
 ![JavaScript](https://img.shields.io/badge/code-JavaScript-black?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/code-HTML-orange?style=flat&logo=html5)
 ![CSSS](https://img.shields.io/badge/code-CSS-blue?style=flat&logo=css3)
+![](https://img.shields.io/badge/IDLE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=fcf849)
+![](https://img.shields.io/badge/IDLE-VS%20Code-007ACC?style=flat&logo=visual-studio-code&color=00a2ed)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=8b045b&logoColor=8b045b)
+![](https://img.shields.io/badge/Shell-Bash-007ACC?style=flat&logo=gnu-bash&logoColor=white&color=black)
 ![](https://img.shields.io/badge/Tools-DVC-informational?style=flat&logo=dataversioncontrol&color=13adc7&logoColor=13adc7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F1502F)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=0db7ed)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&color=326ce5)
+![](https://img.shields.io/badge/Tools-CI/CD-white?style=flat&logo=githubactions&color=fc6d26&logoColor=fc6d26)
 ![](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=black&color=white)
+![](https://img.shields.io/badge/-pytest-blue?style=flat&logo=pytest&color=black&logoColor=0A9EDC)
+![](https://img.shields.io/badge/-dash-blue?style=flat&logo=dash&logoColor=lightgray&color=white)
 ![](https://img.shields.io/badge/-numpy-blue?style=flat&logo=numpy&logoColor=blue&color=white)
 ![](https://img.shields.io/badge/-pandas-gray?style=flat&logo=pandas&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/-scikit_learn-orange?style=flat&logo=scikitlearn&logoColor=orange&color=blue)
@@ -101,18 +106,15 @@ Data Visualization Bokeh,  Matplotlib Seaborn Pandas
 ![](https://img.shields.io/badge/-Jupyter-gray?style=flat&logo=jupyter&color=9e9e9e&logoColor=f37726)
 ![](https://img.shields.io/badge/-matplotlib-red?style=flat&logo=plotly&color=Add8e6)
 ![](https://img.shields.io/badge/-OpenCV-black?style=flat&logo=opencv&logoColor=white&color=blue)
+![](https://img.shields.io/badge/-PIL-gray?style=flat&logo=Python&color=white)
 ![](https://img.shields.io/badge/-seaborn-blue?style=flatt&logo=pandas&logoColor=white&color=85aac6)
 ![](https://img.shields.io/badge/-plotly-blue?style=flat&logo=plotly&logoColor=lightgray&color=white)
-![](https://img.shields.io/badge/-dash-blue?style=flat&logo=dash&logoColor=lightgray&color=white)
 ![](https://img.shields.io/badge/-PyDICOM-gray?style=flat&logo=python&color=yellow)
 ![](https://img.shields.io/badge/-TorchIO-gray?style=flat&logo=pytorch&color=purple&logoColor=white)
 ![](https://img.shields.io/badge/-NiBabel-gray?style=flat&logo=scipy&color=85aac6&logoColor=cec890)
 ![](https://img.shields.io/badge/-braindecode-gray?style=flat&logo=MusicBrainz&color=gray&logoColor=white)
 ![](https://img.shields.io/badge/-MNE-gray?style=flat&logo=appsignal&color=blue&logoColor=orange)
 ![](https://img.shields.io/badge/-Monai-gray?style=flat&logo=Broadcom&color=5dc1b7)
-![](https://img.shields.io/badge/IDLE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=fcf849)
-![](https://img.shields.io/badge/IDLE-VS%20Code-007ACC?style=flat&logo=visual-studio-code&color=00a2ed)
-
 <!--
 ### GitHub Statistics
 <a href="https://github.com/mm24/">
